@@ -3,7 +3,7 @@
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
 
-## 👉 [Navigate to Project Phase 2](./Project_phase_2) 🪼
+## 👉 [Navigate to Testing for Jelly-Translator: Translation Web App](./Project_phase_2) 🪼
 ## ITCS473 - Software Quality Assurance and Testing
 ### 🏫 Mahidol University, ICT
 
