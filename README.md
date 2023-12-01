@@ -13,6 +13,7 @@
 - [Added Unit Test Cases](#-added-unit-test-cases)
 - [Test Case Documentation](#-test-case-documentation)
 - [Test Results](#-test-results)
+- [CI with Github Action](#-ci-with-github-actions)
 - [License](#-license)
 
 ### 🚀 Introduction
@@ -1089,6 +1090,17 @@ public void setUp() {
 ![Test Results](https://github.com/Waariss/GluayGluay_Project/blob/master/Result.png)
 
 --- 
+## 🚀 **CI with GitHub Actions**
+
+### Sudoku CI with Gradle
+
+We have implemented a continuous integration (CI) pipeline using GitHub Actions, specifically tailored for our Sudoku project. This workflow is designed to automatically build and test our Java project using Gradle, ensuring code quality and functionality with every push and pull request to the master branch.
+
+#### Integration with Project Development
+
+These CI workflows are integral to our development process, providing immediate feedback on the impact of new code. By automatically running tests and generating coverage reports, they help maintain the high quality and reliability of our application.
+
+---
 
 ### 📄 License
 ```plaintext
