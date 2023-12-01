@@ -1,4 +1,7 @@
 # 🐈 GluayGluay 🍌: Testing for Sudoku
+![Build Status](https://github.com/Waariss/GluayGluay_Project/actions/workflows/gradle.yml/badge.svg) 
+![Coverage](.github/badges/jacoco.svg)
+![Branches](.github/badges/branches.svg)
 
 ## 👉 [Navigate to Project Phase 2](./Project_phase_2) 🪼
 ## ITCS473 - Software Quality Assurance and Testing
