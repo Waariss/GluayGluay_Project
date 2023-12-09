@@ -213,13 +213,13 @@ And the Branch Coverage would be:
 
 Branch Coverage = ((46 - 9) / 46) * 100% = **80.4%** ✅
 
-![Test Report](https://github.com/ICT-Mahidol/2023-ITCS473-GluayGluay/blob/master/Project_phase_2/tests/Report/Unit_Report.png)
+![Test Report](https://github.com/Waariss/GluayGluay_Project/blob/master/Project_phase_2/tests/Report/Unit_Report.png)
 
 --------------
 ## **System Testing**
 
 ### Manual System Test Cases
-![PDF File](https://github.com/ICT-Mahidol/2023-ITCS473-GluayGluay/blob/master/Project_phase_2/tests/Manual_Test_Cases/System_Testing.pdf)
+![PDF File](https://github.com/Waariss/GluayGluay_Project/blob/master/Project_phase_2/tests/Manual_Test_Cases/System_Testing.pdf)
 
 #### Test Case 1: User Registration Test ✅
 | Test Scenario ID | Test Case ID | Test Case Description                                       | Test Priority | Pre-Requisite |
@@ -313,7 +313,7 @@ Branch Coverage = ((46 - 9) / 46) * 100% = **80.4%** ✅
 | 8        | Logout of the website   | Press Log out                          | The user is taken to a logout confirmation that shows “You have been logged out.” on the login page | Successfully logout, and the user is taken to a logout confirmation that shows “You have been logged out.” on the login page | Pass ✅       |                  |
 
 ### Requirements Traceability Matrix (RTM)
-![PDF File](https://github.com/ICT-Mahidol/2023-ITCS473-GluayGluay/blob/master/Project_phase_2/tests/Manual_Test_Cases/Requirement_Traceability_Matrix.pdf) 🔗
+![PDF File](https://github.com/Waariss/GluayGluay_Project/blob/master/Project_phase_2/tests/Manual_Test_Cases/Requirement_Traceability_Matrix.pdf) 🔗
 
 | Req. No. | Requirement Description | Test Scenario ID | Test Case Description | TestCase ID | Status |
 |----------|-------------------------|------------------|----------------------|-------------|--------|
